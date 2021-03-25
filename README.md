@@ -13,8 +13,8 @@
         <li> Chức năng hỗ trợ nhiều thông số (Mã hàng, bảo hành,  màu sắc, kích thước…), Zoom ảnh khi xem sản phẩm. </li>
         <li> Hiển thị khuyến mại, giảm giá, Đánh giá, bình luận sản phẩm. </li>
         <li> Tính năng giỏ hàng chuyên nghiệp, dễ dùng,Cập nhật thông tin giỏ hàng, Xóa sản phẩm khỏi giỏ hàng,  Gửi đơn hàng để đặt hàng.</li>
-        <li> Web có hỗ trợ nhiều hình thức thanh toán trực tuyến. <li/>
-        <li> Web có chức năng quản lý  sản phẩm và kho hàng.<li/>
+        <li> Web có hỗ trợ nhiều hình thức thanh toán trực tuyến. </li>
+        <li> Web có chức năng quản lý  sản phẩm và kho hàng.</li>
         <li> Chức năng lưu trữ thông tin cùa người mua. </li>
         <li> Chức năng báo cáo doanh thu, lượng người mua, sản phẩm bán chạy để đánh giá hiệu quả kinh doanh. </li>
         <li> Quản lý đơn hàng và giao hàng tích hợp. </li>
